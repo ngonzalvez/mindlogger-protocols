@@ -10,7 +10,7 @@
     "schema:version": "0.0.1",
     "landingPage": "",
     "schema:image":
-    "https://raw.githubusercontent.com/ngonzalvez/mindlogger-protocols/master/TokenCollector/tell-your-story.png",
+    "https://raw.githubusercontent.com/ngonzalvez/mindlogger-protocols/master/TokenCollector/tell_your_story.png",
     "ui": {
         "addProperties": [
             {"variableName": "TokenActivity_schema",

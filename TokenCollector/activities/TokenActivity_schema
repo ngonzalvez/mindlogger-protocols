@@ -1,5 +1,6 @@
 {
-    "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
         "https://raw.githubusercontent.com/ngonzalvez/mindlogger-protocols/master/TokenCollector/activities/TokenActivity/TokenActivity_context"
     ],
     "@type": "reproschema:Activity",

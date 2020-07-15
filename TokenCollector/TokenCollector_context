@@ -1,7 +1,8 @@
 {
     "@context": {
         "@version": 1.1,
-        "activity_path": "https://raw.githubusercontent.com/ReproNim/reproschema/master/activities/",
+        "activity_path":
+        "https://raw.githubusercontent.com/ngonzalvez/mindlogger-protocols/master/TokenCollector/activities/",
         "TokenActivity_schema": {
             "@id": "activity_path:TokenActivity/TokenActivity_schema",
             "@type": "@id"
