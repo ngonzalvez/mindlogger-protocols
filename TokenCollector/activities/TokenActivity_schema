@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/ngonzalvez/mindlogger-protocols/master/TokenCollector/activities/TokenActivity/TokenActivity_context"
+        "https://raw.githubusercontent.com/ngonzalvez/mindlogger-protocols/master/TokenCollector/activities/TokenActivity_context"
     ],
     "@type": "reproschema:Activity",
     "@id": "TokenActivity_schema",
@@ -23,7 +23,6 @@
             "token_screen"
         ],
         "shuffle": false
-
     }
 }
 
